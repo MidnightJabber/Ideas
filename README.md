@@ -7,3 +7,12 @@
 ### 2. The Walking Dead Game (Old-skool)
 
 ###3. Quote-Constructor
+
+###4. Tweety - A Twitter Game
+**Aim** : To build a simple interactive game application which uses twitter data. The game is based on the simple 'match the pairs' kind of problems. Here the pairs include a celebrity and their respective tweet.  
+
+**Abstract**:
+
+
+**Source**: https://github.com/MidnightJabber/twitterGame
+**Live Game**: http://tweety.midnightjabber.com/
